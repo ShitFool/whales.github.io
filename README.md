@@ -1,0 +1,2 @@
+# whales.github.io
+blog
